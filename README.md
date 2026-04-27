@@ -68,8 +68,8 @@
 
 ## 📫 Contact Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/TemaVAP)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:temavap@mail.ru)
 
 ---
 
@@ -125,4 +125,4 @@
 ## 📫 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/TemaVAP)
-[Написать мне](mailto:temavap@mail.ru)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:temavap@mail.ru)
