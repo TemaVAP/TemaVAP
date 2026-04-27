@@ -14,6 +14,7 @@
 - 🐧 Hands-on experience with **Linux** (Astra Linux, Ubuntu) and **Windows** administration
 - 🏆 Red diploma graduate + Gold Medal (school)
 - 💪 Also training as a **Reserve Officer** (Combat Information & Control Systems)
+- 🌐 English — B1 (Intermediate)
 
 ---
 
@@ -89,7 +90,7 @@
 - 🐧 Практический опыт администрирования **Linux** (Astra Linux, Ubuntu) и **Windows**
 - 🏆 Окончил школу с красным аттестатом и золотой медалью
 - 💪 Прохожу подготовку как **офицер запаса** (Боевые информационно-управляющие системы)
-
+- 🌐 Английский язык — уровень B1
 ---
 
 ## 🔧 Технические навыки
