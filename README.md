@@ -13,7 +13,7 @@
 - 🔐 Interested in **pentesting**, vulnerability analysis, and security tools
 - 🐧 Hands-on experience with **Linux** (Astra Linux, Ubuntu) and **Windows** administration
 - 🏆 Red diploma graduate + Gold Medal (school)
-- 🪖 Also training as a **Reserve Officer** (Combat Information & Control Systems)
+- 💪 Also training as a **Reserve Officer** (Combat Information & Control Systems)
 
 ---
 
@@ -73,19 +73,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TemaVAP&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # Привет, я Артём Васильев 👋
 
 🎓 Студент 3 курса **СПбГЭТУ «ЛЭТИ»** — Компьютерная безопасность (специалитет)  
 🔍 Ищу **стажировку** в сфере информационной безопасности  
 📍 Санкт-Петербург
 
-> Увлекаюсь пентестом, анализом уязвимостей и инструментами защиты. Люблю создавать вещи, которые одновременно функциональны и безопасны.
+> Интересуюсь информационной безопасностью, в частности: пентест, анализ уязвимостей, работа с инструментами защиты. Имею базовые знания в Linux/Windows, разработки на С/С++ и Python.
 
 ---
 
@@ -94,7 +88,7 @@
 - 🔐 Интересуюсь **пентестом**, анализом уязвимостей и инструментами ИБ
 - 🐧 Практический опыт администрирования **Linux** (Astra Linux, Ubuntu) и **Windows**
 - 🏆 Окончил школу с красным аттестатом и золотой медалью
-- 🪖 Прохожу подготовку как **офицер запаса** (Боевые информационно-управляющие системы)
+- 💪 Прохожу подготовку как **офицер запаса** (Боевые информационно-управляющие системы)
 
 ---
 
@@ -130,5 +124,5 @@
 
 ## 📫 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/TemaVAP)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:temavap@mail.ru)
