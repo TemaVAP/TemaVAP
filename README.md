@@ -56,10 +56,10 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:temavap@mail.ru)
 
 
----
----
----
 
+
+
+  
 # Hi, I'm Artem Vasilev 👋
 
 🎓 3rd-year student at **SPbETU "LETI"** — Computer Security (Specialist degree)  
